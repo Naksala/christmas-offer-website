@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/christmas-offer-website/static/css/main.58ea0f45.css",
-    "main.js": "/christmas-offer-website/static/js/main.55803171.js",
+    "main.css": "/christmas-offer-website/static/css/main.a8b5589b.css",
+    "main.js": "/christmas-offer-website/static/js/main.adf02b48.js",
     "index.html": "/christmas-offer-website/index.html",
-    "main.58ea0f45.css.map": "/christmas-offer-website/static/css/main.58ea0f45.css.map",
-    "main.55803171.js.map": "/christmas-offer-website/static/js/main.55803171.js.map"
+    "main.a8b5589b.css.map": "/christmas-offer-website/static/css/main.a8b5589b.css.map",
+    "main.adf02b48.js.map": "/christmas-offer-website/static/js/main.adf02b48.js.map"
   },
   "entrypoints": [
-    "static/css/main.58ea0f45.css",
-    "static/js/main.55803171.js"
+    "static/css/main.a8b5589b.css",
+    "static/js/main.adf02b48.js"
   ]
 }
